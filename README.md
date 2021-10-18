@@ -2,7 +2,9 @@
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src="https://i.gifer.com/XOsX.gif" width = 50px> </h1>
+
+
+<h1> Hello Fellow < Developers/ >! <iframe src="https://gifer.com/embed/6oa" width=50 height=50 frameBorder="0" allowFullScreen></iframe> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=laulimon.laulimon)
