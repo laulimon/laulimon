@@ -4,7 +4,7 @@
 
 
 
-<h1> Hello Fellow < Developers/ >! <iframe src="https://gifer.com/embed/6oa" width=50 height=50 frameBorder="0" allowFullScreen></iframe> </h1>
+<h1> Hello Fellow < Developers/ >! </h1><iframe src="https://gifer.com/embed/6oa" width=50 height=50 frameBorder="0" allowFullScreen></iframe>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=laulimon.laulimon)
