@@ -16,6 +16,7 @@
 
 <h2> About Me <img src = "https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width = 45px> </h2>
 <div style="display: flex; align-items: center">
+  
 <div>
 
 - 🌱 I’m currently working at Clapps!
@@ -36,6 +37,7 @@
 ![](base.png)
 
 </div>
+  
 </div
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
